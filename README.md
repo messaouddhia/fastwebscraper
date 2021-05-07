@@ -2,15 +2,15 @@
 
 
 links
-prints all the links from a html file or website
+prints all the links from a  website
 
 
 titles
-prints all the titles from a html file or a website
+prints all the titles from a website
 
 
 pargraphs
-prints all the paragraphs from a html file or a website
+prints all the paragraphs from a website
 
 
 downloadhtml
